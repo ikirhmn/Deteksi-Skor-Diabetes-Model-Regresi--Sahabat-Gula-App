@@ -1,0 +1,501 @@
+Jenis Kelamin,Usia,Berat (kg),Tinggi (cm),Lingkar Pinggang (cm),Riwayat Tekanan Darah Tinggi,Riwayat Gula Darah Tinggi,Keluarga dengan Riwayat Diabetes,Tingkat Aktivitas,Konsumsi Sayur/Buah,BMI,Skor Indeks Diabetes,Kategori Risiko,Kalori Harian
+Male,45,80,175,95,1,1,1,Berat,1,26.12,9,Sedikit Tinggi,2887
+Male,30,65,160,70,0,0,0,None,1,25.39,4,Rendah,1806
+Female,60,90,170,100,1,1,1,Ringan,0,31.14,10,Sedikit Tinggi,2065
+Male,35,50,155,65,0,0,0,Ringan,1,20.81,3,Rendah,1786
+Male,25,70,180,85,0,0,1,None,1,21.60,4,Rendah,2046
+Female,50,75,165,80,1,1,1,Sangat Berat,0,27.55,7,Sedikit Tinggi,2603
+Male,40,85,172,92,1,0,1,Sedang,0,28.73,5,Rendah,2682
+Female,28,60,168,72,0,0,0,None,1,21.26,3,Rendah,1619
+Male,55,100,175,105,1,1,1,Ringan,0,32.65,11,Sedikit Tinggi,2508
+Male,38,68,160,78,0,1,1,None,1,26.56,8,Sedikit Tinggi,1794
+Female,53,53,170,75,1,1,1,Ringan,0,18.34,6,Rendah,1604
+Female,37,78,160,79,0,1,1,Sedang,0,30.47,6,Rendah,2223
+Female,35,86,156,94,0,0,0,Ringan,1,35.34,6,Rendah,2061
+Female,25,96,176,106,0,1,0,Sangat Berat,1,30.99,6,Rendah,3371
+Male,56,90,161,86,0,0,1,Sedang,1,34.72,8,Sedikit Tinggi,2528
+Male,48,82,170,106,1,1,0,Berat,0,28.37,8,Sedikit Tinggi,2842
+Male,59,99,157,91,0,0,1,Sedang,0,40.16,7,Sedikit Tinggi,2606
+Female,26,65,158,84,1,1,1,Sangat Berat,0,26.04,4,Rendah,2558
+Male,65,98,156,91,0,0,1,Ringan,1,40.27,8,Sedikit Tinggi,2248
+Male,62,87,157,89,1,0,1,Ringan,0,35.30,8,Sedikit Tinggi,2126
+Male,45,54,173,73,1,0,0,Sangat Berat,1,18.04,5,Rendah,2662
+Female,47,87,157,88,0,0,0,Sangat Berat,1,35.30,6,Rendah,2765
+Female,69,84,168,97,1,0,0,Sangat Berat,1,29.76,8,Sedikit Tinggi,2630
+Female,28,54,174,78,0,0,1,None,1,17.84,4,Rendah,1592
+Male,58,51,172,75,0,1,0,Berat,1,17.24,6,Rendah,2243
+Female,34,83,161,91,1,0,1,None,1,32.02,7,Sedikit Tinggi,1806
+Male,58,97,161,87,1,1,1,None,1,37.42,12,Sedang,2030
+Female,31,72,156,79,0,1,0,Sedang,1,29.59,3,Rendah,2137
+Female,33,97,178,98,0,1,1,Ringan,1,30.61,6,Rendah,2415
+Female,61,87,176,101,0,0,0,Ringan,0,28.09,6,Rendah,2068
+Female,62,63,161,82,1,1,1,Sangat Berat,0,24.30,7,Sedikit Tinggi,2214
+Male,65,52,173,71,1,0,0,Ringan,1,17.37,6,Rendah,1762
+Male,25,67,180,90,1,0,0,Sangat Berat,0,20.68,1,Rendah,3183
+Male,68,77,177,83,0,1,1,Ringan,1,24.58,7,Sedikit Tinggi,2119
+Male,28,99,168,103,1,0,1,Ringan,0,35.08,6,Rendah,2619
+Male,59,69,167,88,0,1,0,Ringan,0,24.74,5,Rendah,1985
+Female,27,66,172,82,0,1,1,Berat,1,22.31,3,Rendah,2482
+Female,70,60,159,70,0,1,0,None,0,23.73,7,Sedikit Tinggi,1299
+Male,43,71,155,81,1,1,1,Sangat Berat,1,29.55,7,Sedikit Tinggi,2791
+Female,54,78,170,86,0,1,0,Sedang,0,26.99,5,Rendah,2188
+Male,67,90,177,99,1,0,1,Sangat Berat,0,28.73,8,Sedikit Tinggi,3185
+Male,35,58,171,75,0,0,1,Sedang,0,19.84,3,Rendah,2292
+Female,26,71,159,76,0,1,0,Sedang,0,28.08,2,Rendah,2190
+Male,66,66,177,88,0,0,1,Ringan,1,21.07,6,Rendah,1982
+Female,39,69,162,81,0,1,1,Sedang,1,26.29,6,Rendah,2087
+Male,34,56,163,66,1,0,1,Ringan,1,21.08,3,Rendah,1944
+Male,31,98,159,90,0,0,1,Sangat Berat,0,38.76,3,Rendah,3465
+Male,57,94,161,87,1,0,0,Berat,1,36.26,8,Sedikit Tinggi,2874
+Female,45,75,162,80,0,1,1,Sangat Berat,0,28.58,6,Rendah,2615
+Female,68,52,178,78,0,0,1,Ringan,1,16.41,6,Rendah,1556
+Female,70,70,161,85,1,0,1,Sangat Berat,1,27.01,8,Sedikit Tinggi,2271
+Female,69,70,165,82,1,0,1,Sangat Berat,0,25.71,7,Sedikit Tinggi,2328
+Male,58,60,169,77,0,1,0,Ringan,0,21.01,5,Rendah,1885
+Female,51,96,175,108,0,0,0,Sangat Berat,1,31.35,8,Sedikit Tinggi,3112
+Male,55,77,171,88,1,0,1,Sangat Berat,1,26.33,8,Sedikit Tinggi,2981
+Female,49,87,175,98,1,1,1,Berat,0,28.41,8,Sedikit Tinggi,2687
+Male,67,75,179,81,1,0,0,Sangat Berat,0,23.41,5,Rendah,2924
+Female,33,79,174,87,1,1,0,Sedang,0,26.09,3,Rendah,2405
+Female,69,54,167,79,1,0,0,Ringan,1,19.36,6,Rendah,1482
+Male,32,99,171,103,0,1,1,Ringan,1,33.86,7,Sedikit Tinggi,2618
+Female,60,52,159,71,1,0,0,Ringan,1,20.57,6,Rendah,1448
+Female,51,65,179,82,1,1,0,Berat,1,20.29,6,Rendah,2333
+Female,62,80,175,83,0,1,0,Berat,0,26.12,6,Rendah,2454
+Female,27,63,172,81,1,0,0,Berat,1,21.30,2,Rendah,2431
+Female,26,83,179,99,0,0,1,Sangat Berat,1,25.90,4,Rendah,3150
+Male,48,53,166,79,0,0,1,Sedang,1,19.23,5,Rendah,2065
+Male,35,73,180,87,1,1,1,Berat,0,22.53,5,Rendah,2907
+Female,48,58,162,66,1,0,1,Sangat Berat,0,22.10,5,Rendah,2264
+Male,70,71,157,82,1,1,1,None,0,28.80,10,Sedikit Tinggi,1616
+Male,67,98,174,101,1,0,1,None,0,32.37,11,Sedikit Tinggi,2085
+Male,52,100,175,99,1,0,1,Sedang,1,32.65,9,Sedikit Tinggi,2850
+Male,70,92,169,109,0,1,0,Berat,1,32.21,10,Sedikit Tinggi,2814
+Female,34,84,155,92,1,0,1,None,1,34.96,7,Sedikit Tinggi,1773
+Female,34,96,177,106,0,1,1,Sangat Berat,0,30.64,6,Rendah,3297
+Female,55,78,167,85,0,1,0,Sangat Berat,0,27.97,6,Rendah,2637
+Female,67,76,163,84,0,1,1,Sedang,1,28.60,8,Sedikit Tinggi,1988
+Male,34,65,170,83,0,0,1,None,1,22.49,4,Rendah,1857
+Female,70,88,159,90,0,0,1,Berat,1,34.81,8,Sedikit Tinggi,2351
+Male,35,75,172,83,0,0,1,Ringan,0,25.35,4,Rendah,2276
+Male,40,60,179,72,0,1,1,Sangat Berat,0,18.73,4,Rendah,2895
+Male,57,88,178,110,1,0,1,Sangat Berat,1,27.77,10,Sedikit Tinggi,3254
+Male,53,57,167,74,0,0,1,Sangat Berat,0,20.44,4,Rendah,2572
+Male,68,83,164,94,1,0,0,Berat,0,30.86,8,Sedikit Tinggi,2622
+Female,27,72,176,86,1,1,1,None,0,23.24,5,Rendah,1829
+Male,42,75,159,82,0,0,0,None,1,29.67,6,Rendah,1847
+Male,32,59,170,80,1,1,0,None,1,20.42,5,Rendah,1797
+Male,70,88,159,92,1,1,0,Berat,1,34.81,9,Sedikit Tinggi,2637
+Female,48,94,174,98,0,1,0,Sangat Berat,0,31.05,7,Sedikit Tinggi,3090
+Male,42,92,165,92,0,0,0,Sedang,0,33.79,4,Rendah,2707
+Female,52,87,169,104,1,0,0,Sedang,1,30.46,9,Sedikit Tinggi,2333
+Male,41,87,167,106,1,0,0,Ringan,0,31.20,7,Sedikit Tinggi,2356
+Female,35,59,167,75,1,0,0,Sedang,1,21.16,4,Rendah,2012
+Male,60,61,179,86,0,0,0,Sangat Berat,1,19.04,5,Rendah,2724
+Male,68,54,156,71,1,0,1,None,0,22.19,8,Sedikit Tinggi,1416
+Female,65,93,173,103,0,1,1,Sedang,0,31.07,10,Sedikit Tinggi,2364
+Male,60,83,159,94,0,0,0,Sedang,1,32.83,8,Sedikit Tinggi,2370
+Male,41,78,163,84,1,0,1,Ringan,1,29.36,6,Rendah,2198
+Female,32,96,164,91,0,1,1,Sedang,1,35.69,5,Rendah,2579
+Female,50,93,171,105,1,0,0,Sangat Berat,1,31.80,9,Sedikit Tinggi,3017
+Male,54,95,166,105,0,1,0,Ringan,1,34.48,9,Sedikit Tinggi,2368
+Male,47,56,173,70,0,0,1,Ringan,1,18.71,5,Rendah,1940
+Female,51,79,164,79,1,1,1,None,0,29.37,9,Sedikit Tinggi,1679
+Female,57,98,161,95,1,0,1,Sedang,1,37.81,10,Sedikit Tinggi,2387
+Female,29,94,157,95,0,1,1,None,0,38.14,7,Sedikit Tinggi,1938
+Female,49,83,166,97,0,1,0,Berat,0,30.12,7,Sedikit Tinggi,2521
+Male,30,99,176,102,1,1,1,None,0,31.96,8,Sedikit Tinggi,2334
+Male,52,96,165,88,1,0,0,Sangat Berat,1,35.26,7,Sedikit Tinggi,3299
+Female,45,85,180,101,1,0,0,None,0,26.23,8,Sedikit Tinggi,1907
+Male,47,63,175,88,0,1,1,Berat,0,20.57,5,Rendah,2577
+Male,43,53,174,73,1,1,0,Sangat Berat,0,17.51,4,Rendah,2674
+Male,40,84,162,94,0,0,1,Sangat Berat,1,32.01,7,Sedikit Tinggi,3149
+Female,47,69,173,88,1,0,1,Ringan,0,23.05,5,Rendah,1891
+Female,49,53,155,75,1,1,0,Berat,1,22.06,6,Rendah,1885
+Male,38,96,170,102,1,0,1,Ringan,0,33.22,7,Sedikit Tinggi,2527
+Female,62,70,159,79,1,0,1,Sedang,0,27.69,7,Sedikit Tinggi,1895
+Female,54,91,166,107,1,0,1,Sedang,1,33.02,10,Sedikit Tinggi,2351
+Female,65,58,156,67,0,0,1,Sedang,0,23.83,5,Rendah,1657
+Female,40,88,169,99,0,1,1,Berat,0,30.81,7,Sedikit Tinggi,2717
+Male,43,96,164,88,0,0,0,Ringan,0,35.69,4,Rendah,2441
+Male,42,83,159,92,0,0,0,Sangat Berat,1,32.83,5,Rendah,3076
+Female,42,50,173,74,1,1,0,Sedang,0,16.71,4,Rendah,1876
+Male,42,98,172,97,0,1,1,Sangat Berat,1,33.13,8,Sedikit Tinggi,3515
+Female,27,57,162,67,1,0,1,Sangat Berat,0,21.72,2,Rendah,2444
+Female,56,68,172,82,0,0,0,Berat,0,22.99,4,Rendah,2267
+Male,60,79,177,88,0,1,1,None,1,25.22,10,Sedikit Tinggi,1922
+Female,31,91,160,95,0,0,1,None,1,35.55,7,Sedikit Tinggi,1913
+Male,48,68,173,82,1,0,0,Ringan,1,22.72,5,Rendah,2099
+Male,61,74,157,83,0,1,1,Berat,1,30.02,9,Sedikit Tinggi,2452
+Female,33,54,171,76,0,0,1,Sedang,0,18.47,1,Rendah,1988
+Male,67,100,163,90,1,1,1,None,0,37.64,11,Sedikit Tinggi,2027
+Female,40,84,156,92,0,1,0,Sangat Berat,0,34.52,5,Rendah,2763
+Female,53,66,156,78,0,0,0,Berat,1,27.12,5,Rendah,2086
+Female,36,82,161,90,1,0,1,Berat,1,31.63,7,Sedikit Tinggi,2562
+Male,47,62,159,76,0,0,1,Sedang,1,24.52,5,Rendah,2145
+Male,60,54,166,80,0,1,0,Ringan,1,19.60,6,Rendah,1763
+Female,33,56,162,74,0,1,1,Berat,1,21.34,3,Rendah,2150
+Male,53,98,162,86,1,1,1,Sangat Berat,1,37.34,9,Sedikit Tinggi,3292
+Female,53,62,155,83,0,1,1,Sangat Berat,0,25.81,6,Rendah,2209
+Male,29,53,163,71,1,0,0,None,0,19.95,3,Rendah,1691
+Male,53,87,176,107,1,1,0,None,1,28.09,11,Sedikit Tinggi,2052
+Female,35,88,169,106,1,0,0,Sangat Berat,1,30.81,8,Sedikit Tinggi,3040
+Male,56,59,179,71,0,1,1,Sangat Berat,0,18.41,6,Rendah,2724
+Female,31,92,163,87,0,1,1,Sedang,1,34.63,5,Rendah,2515
+Male,36,91,160,86,1,0,0,Sedang,0,35.55,5,Rendah,2689
+Female,67,50,159,67,1,1,0,Sangat Berat,1,19.78,7,Sedikit Tinggi,1896
+Male,26,92,171,101,0,1,1,Sedang,1,31.46,6,Rendah,2889
+Female,43,86,175,105,0,1,1,Sangat Berat,1,28.08,8,Sedikit Tinggi,2998
+Male,43,96,176,105,0,1,0,Sangat Berat,0,30.99,7,Sedikit Tinggi,3515
+Female,31,62,166,87,0,0,1,Berat,0,22.50,1,Rendah,2314
+Female,68,98,165,86,0,1,1,Sedang,1,36.00,9,Sedikit Tinggi,2341
+Female,33,91,168,103,1,0,1,Sangat Berat,0,32.24,6,Rendah,3105
+Male,32,50,156,74,1,0,1,Berat,1,20.55,3,Rendah,2277
+Male,46,75,169,90,0,1,0,Sangat Berat,0,26.26,5,Rendah,3004
+Male,51,97,178,102,0,1,1,None,0,30.61,10,Sedikit Tinggi,2199
+Male,65,66,158,84,1,0,0,Ringan,1,26.44,7,Sedikit Tinggi,1825
+Male,46,91,173,98,0,0,0,Sangat Berat,0,30.41,6,Rendah,3356
+Male,55,68,172,83,1,0,1,Ringan,1,22.99,7,Sedikit Tinggi,2042
+Male,39,72,164,79,1,1,1,Sangat Berat,1,26.77,7,Sedikit Tinggi,2955
+Male,60,62,167,83,1,1,1,Sangat Berat,1,22.23,8,Sedikit Tinggi,2601
+Male,63,100,157,94,0,1,1,Berat,0,40.57,9,Sedikit Tinggi,2883
+Female,53,78,178,84,1,0,1,Berat,0,24.62,5,Rendah,2530
+Female,31,96,161,91,1,0,0,Sedang,1,37.04,4,Rendah,2558
+Female,40,59,155,75,0,1,1,Sedang,0,24.56,4,Rendah,1857
+Female,32,66,159,84,0,0,0,Ringan,1,26.11,2,Rendah,1833
+Male,30,94,165,92,1,0,1,Ringan,1,34.53,5,Rendah,2511
+Female,57,63,159,85,0,0,1,Sedang,1,24.92,6,Rendah,1826
+Female,34,94,174,101,1,1,1,Ringan,1,31.05,7,Sedikit Tinggi,2333
+Female,53,62,156,79,1,1,0,Sangat Berat,0,25.48,6,Rendah,2221
+Female,32,74,170,90,1,1,0,None,0,25.61,5,Rendah,1778
+Female,64,74,160,80,0,0,0,Sangat Berat,0,28.91,5,Rendah,2392
+Female,35,68,158,82,1,1,1,Ringan,1,27.24,7,Sedikit Tinggi,1831
+Female,55,57,157,70,0,1,0,None,0,23.12,7,Sedikit Tinggi,1338
+Female,38,80,170,89,0,0,1,Sedang,0,27.68,4,Rendah,2343
+Female,59,99,176,98,0,0,1,Ringan,0,31.96,8,Sedikit Tinggi,2247
+Female,58,68,171,82,1,1,0,Ringan,0,23.26,6,Rendah,1784
+Male,64,66,169,90,0,1,0,Berat,0,23.11,5,Rendah,2417
+Female,39,99,178,99,1,0,0,Sedang,1,31.25,7,Sedikit Tinggi,2707
+Female,58,83,178,98,0,0,0,Ringan,1,26.20,7,Sedikit Tinggi,2051
+Male,34,68,157,82,0,1,1,None,0,27.59,5,Rendah,1796
+Female,44,94,156,93,0,1,0,Berat,1,38.63,6,Rendah,2646
+Female,44,91,158,89,0,0,0,Sangat Berat,1,36.45,5,Rendah,2881
+Female,31,67,161,83,0,1,0,Sangat Berat,1,25.85,3,Rendah,2584
+Male,34,50,159,75,0,1,0,Ringan,0,19.78,1,Rendah,1827
+Female,55,81,175,110,0,0,0,Berat,0,26.45,7,Sedikit Tinggi,2532
+Male,50,58,172,77,0,1,0,Sangat Berat,0,19.61,4,Rendah,2679
+Female,39,60,176,79,0,0,1,Ringan,0,19.37,3,Rendah,1848
+Male,25,83,168,110,1,1,0,Ringan,1,29.41,6,Rendah,2420
+Male,37,59,165,70,0,1,0,Berat,0,21.67,3,Rendah,2486
+Female,30,94,172,101,1,0,1,None,0,31.77,7,Sedikit Tinggi,2045
+Female,26,65,155,78,0,0,1,Berat,1,27.06,3,Rendah,2290
+Male,56,71,161,83,0,0,0,Sedang,1,27.39,6,Rendah,2234
+Female,69,68,157,81,1,0,0,Sedang,1,27.59,7,Sedikit Tinggi,1791
+Male,44,51,156,66,0,1,1,Sedang,0,20.96,4,Rendah,1969
+Female,54,52,169,71,1,1,0,Berat,0,18.21,5,Rendah,1976
+Male,66,84,156,89,1,1,1,Sangat Berat,1,34.52,10,Sedikit Tinggi,2831
+Female,46,61,177,81,0,1,0,Berat,0,19.47,4,Rendah,2286
+Male,26,87,171,101,0,1,1,Ringan,0,29.75,4,Rendah,2494
+Female,46,59,162,66,0,0,0,None,0,22.48,5,Rendah,1454
+Male,65,54,160,69,1,1,1,Sedang,1,21.09,8,Sedikit Tinggi,1891
+Female,39,58,158,75,1,1,1,Berat,0,23.23,5,Rendah,2090
+Female,27,95,158,89,0,1,1,Ringan,1,38.05,5,Rendah,2257
+Female,63,67,176,89,1,1,1,Sedang,0,21.63,7,Sedikit Tinggi,2006
+Male,46,83,160,89,0,0,1,Ringan,0,32.42,6,Rendah,2207
+Female,40,84,162,93,0,0,1,Ringan,1,32.01,6,Rendah,2051
+Male,59,85,157,89,1,1,1,Sedang,0,34.48,9,Sedikit Tinggi,2389
+Female,65,63,172,87,0,0,0,None,1,21.30,7,Sedikit Tinggi,1463
+Female,33,88,168,102,0,0,0,Sangat Berat,0,31.18,3,Rendah,3048
+Female,26,65,165,79,0,1,0,Sedang,0,23.88,1,Rendah,2155
+Male,45,81,164,89,0,0,1,None,1,30.12,9,Sedikit Tinggi,1938
+Female,45,74,179,84,0,1,0,Sangat Berat,0,23.10,4,Rendah,2798
+Female,59,54,163,72,0,1,1,Berat,1,20.32,7,Sedikit Tinggi,1902
+Male,44,63,171,89,1,0,1,Sedang,0,21.55,4,Rendah,2300
+Male,40,73,169,81,0,1,0,Ringan,0,25.56,4,Rendah,2188
+Female,34,93,170,108,0,1,1,Sedang,0,32.18,6,Rendah,2575
+Male,28,69,172,86,1,0,1,Sedang,0,23.32,2,Rendah,2527
+Female,25,97,156,91,0,1,0,Ringan,1,39.86,4,Rendah,2281
+Male,36,76,157,76,0,1,1,None,1,30.83,9,Sedikit Tinggi,1880
+Male,36,74,170,89,1,1,0,Ringan,0,25.61,5,Rendah,2238
+Female,62,91,163,89,1,1,0,Ringan,0,34.25,8,Sedikit Tinggi,2004
+Female,26,63,176,83,1,1,0,None,1,20.34,5,Rendah,1727
+Female,30,62,156,78,1,1,0,Sedang,1,25.48,4,Rendah,1990
+Male,37,70,163,85,0,0,0,None,0,26.35,5,Rendah,1847
+Female,62,91,157,95,0,0,0,None,0,36.92,9,Sedikit Tinggi,1704
+Female,26,50,172,80,1,1,1,None,1,16.90,6,Rendah,1541
+Female,63,51,178,77,1,0,0,None,0,16.10,7,Sedikit Tinggi,1376
+Male,27,97,177,99,1,1,0,Sangat Berat,0,30.96,5,Rendah,3698
+Female,43,51,167,79,1,1,1,None,1,18.29,8,Sedikit Tinggi,1413
+Male,60,85,160,93,0,1,0,Sedang,1,33.20,8,Sedikit Tinggi,2410
+Male,30,81,162,89,0,1,1,Berat,1,30.86,5,Rendah,2894
+Female,29,64,166,84,0,1,0,Sedang,1,23.23,2,Rendah,2126
+Female,38,73,165,78,1,0,0,Berat,0,26.81,4,Rendah,2433
+Female,36,65,164,79,0,1,0,Ringan,0,24.17,3,Rendah,1834
+Female,25,94,180,109,1,0,0,Ringan,0,29.01,4,Rendah,2446
+Female,59,95,170,109,0,0,1,Ringan,0,32.87,9,Sedikit Tinggi,2140
+Female,65,76,178,88,0,0,0,Sangat Berat,0,23.99,4,Rendah,2634
+Male,47,54,171,77,0,0,0,Sangat Berat,0,18.47,3,Rendah,2620
+Male,61,64,163,85,0,0,1,Sangat Berat,0,24.09,5,Rendah,2582
+Female,58,69,177,82,0,0,1,Sangat Berat,1,22.02,6,Rendah,2556
+Female,40,99,176,108,1,1,0,Sedang,0,31.96,8,Sedikit Tinggi,2680
+Female,56,50,158,67,1,1,0,Sedang,0,20.03,6,Rendah,1622
+Male,43,94,161,93,1,1,1,None,0,36.26,9,Sedikit Tinggi,2084
+Female,66,69,161,76,1,1,0,Sedang,1,26.62,8,Sedikit Tinggi,1868
+Male,32,64,161,84,1,1,0,Berat,1,24.69,3,Rendah,2572
+Female,52,91,177,102,0,1,0,None,0,29.05,8,Sedikit Tinggi,1914
+Male,34,95,176,104,1,1,0,Ringan,0,30.67,6,Rendah,2592
+Female,53,72,166,81,0,1,0,Berat,0,26.13,5,Rendah,2297
+Male,48,56,176,70,1,0,1,Sangat Berat,1,18.08,6,Rendah,2708
+Female,39,87,164,89,1,0,1,Sangat Berat,0,32.35,6,Rendah,2924
+Female,46,53,171,79,1,1,1,Berat,0,18.13,6,Rendah,2083
+Male,31,54,166,80,0,1,1,Berat,0,19.60,2,Rendah,2462
+Female,27,52,170,74,0,1,1,Berat,1,17.99,3,Rendah,2219
+Female,57,89,156,88,0,0,0,Berat,0,36.57,6,Rendah,2448
+Male,25,91,180,100,1,0,1,Sedang,1,28.09,5,Rendah,2968
+Male,47,97,164,95,1,0,1,None,0,36.06,10,Sedikit Tinggi,2118
+Female,40,91,158,90,0,0,0,Ringan,0,36.45,4,Rendah,2113
+Male,43,98,166,98,1,1,1,Sedang,0,35.56,8,Sedikit Tinggi,2802
+Female,62,84,159,92,1,0,1,Berat,0,33.23,8,Sedikit Tinggi,2351
+Female,51,89,170,100,1,1,0,None,0,30.80,10,Sedikit Tinggi,1844
+Male,66,69,162,80,0,0,0,Sedang,1,26.29,6,Rendah,2135
+Male,33,84,177,105,1,1,1,Berat,0,26.81,6,Rendah,3081
+Female,39,62,179,83,1,0,0,Sangat Berat,1,19.35,4,Rendah,2627
+Male,36,52,171,70,1,0,0,None,1,17.78,6,Rendah,1697
+Male,69,97,180,110,1,0,1,Sedang,1,29.94,10,Sedikit Tinggi,2720
+Female,41,57,158,66,1,0,1,Berat,0,22.83,4,Rendah,2055
+Female,32,88,160,87,0,1,1,Berat,1,34.38,5,Rendah,2689
+Male,62,61,164,81,1,1,0,Sangat Berat,0,22.68,6,Rendah,2527
+Male,34,74,161,80,0,0,0,Sedang,1,28.55,2,Rendah,2451
+Female,67,59,162,66,0,0,1,None,1,22.48,8,Sedikit Tinggi,1328
+Male,53,55,173,70,0,0,0,Ringan,0,18.38,3,Rendah,1885
+Male,52,83,168,98,1,0,0,Ringan,0,29.41,6,Rendah,2234
+Female,67,54,169,75,0,1,0,Sedang,1,18.91,6,Rendah,1705
+Female,59,58,167,78,1,1,1,Berat,1,20.80,8,Sedikit Tinggi,2014
+Female,64,52,157,67,1,1,0,Sedang,0,21.10,6,Rendah,1581
+Male,33,99,162,86,0,0,0,None,0,37.72,4,Rendah,2211
+Male,70,95,161,93,1,0,0,None,1,36.65,10,Sedikit Tinggi,1934
+Female,44,84,167,104,0,1,1,None,0,30.12,10,Sedikit Tinggi,1803
+Male,56,90,164,92,0,0,1,Berat,1,33.46,8,Sedikit Tinggi,2846
+Male,38,84,179,107,1,0,1,None,0,26.22,9,Sedikit Tinggi,2129
+Male,65,95,156,94,0,1,0,Sedang,0,39.04,8,Sedikit Tinggi,2488
+Male,51,83,172,106,1,0,0,None,1,28.06,10,Sedikit Tinggi,1986
+Female,38,57,173,73,1,1,1,Sedang,0,19.05,5,Rendah,2015
+Male,52,94,176,104,0,0,1,Ringan,0,30.35,8,Sedikit Tinggi,2454
+Female,30,79,157,81,1,0,1,Berat,0,32.05,4,Rendah,2519
+Male,33,83,166,103,0,0,1,Sangat Berat,0,30.12,5,Rendah,3244
+Male,47,73,164,80,1,1,1,Sedang,0,27.14,7,Sedikit Tinggi,2364
+Male,68,60,170,73,1,0,0,Sangat Berat,0,20.76,5,Rendah,2522
+Female,26,55,158,66,1,1,0,Sedang,1,22.03,3,Rendah,1932
+Male,30,79,173,83,0,1,1,Ringan,1,26.40,4,Rendah,2374
+Male,46,89,176,102,1,0,1,Berat,1,28.73,8,Sedikit Tinggi,3045
+Female,61,70,160,77,0,1,0,Ringan,0,27.34,6,Rendah,1697
+Male,32,61,171,89,1,0,1,Berat,1,20.86,3,Rendah,2628
+Male,53,80,176,84,0,1,1,Berat,1,25.83,7,Sedikit Tinggi,2829
+Female,67,81,156,92,0,1,1,Berat,0,33.28,8,Sedikit Tinggi,2224
+Female,37,61,179,86,0,0,1,Sangat Berat,1,19.04,4,Rendah,2627
+Female,39,86,155,91,0,0,0,Sedang,1,35.80,5,Rendah,2283
+Male,50,99,155,92,1,1,1,Ringan,1,41.21,9,Sedikit Tinggi,2356
+Male,29,62,169,88,1,0,0,Sedang,1,21.71,2,Rendah,2381
+Male,30,72,159,77,0,1,0,Sedang,0,28.48,2,Rendah,2432
+Female,47,81,176,98,1,1,0,Ringan,0,26.15,7,Sedikit Tinggi,2082
+Male,45,56,164,70,0,0,1,None,0,20.82,6,Rendah,1638
+Male,62,59,176,76,0,0,0,Ringan,1,19.05,5,Rendah,1904
+Female,67,79,180,88,1,1,0,Berat,1,24.38,7,Sedikit Tinggi,2448
+Male,56,53,166,74,1,1,1,Sangat Berat,0,19.23,7,Sedikit Tinggi,2456
+Male,38,89,161,87,0,1,1,Berat,0,34.34,6,Rendah,2952
+Male,57,57,174,80,1,0,1,None,0,18.83,8,Sedikit Tinggi,1653
+Male,65,78,167,82,0,1,0,Sedang,0,27.97,6,Rendah,2331
+Male,36,75,177,86,0,1,0,Sedang,1,23.94,4,Rendah,2606
+Female,67,89,164,86,1,1,1,Ringan,1,33.09,10,Sedikit Tinggi,1951
+Female,48,55,170,78,0,1,0,None,0,19.03,6,Rendah,1454
+Female,33,96,178,106,1,1,1,Berat,1,30.30,8,Sedikit Tinggi,3013
+Female,28,60,167,74,1,0,0,Berat,1,21.51,2,Rendah,2316
+Female,67,56,155,74,1,1,1,Sangat Berat,1,23.31,8,Sedikit Tinggi,1962
+Female,32,84,163,87,1,1,1,None,0,31.62,7,Sedikit Tinggi,1845
+Female,35,58,170,73,0,0,1,Ringan,0,20.07,3,Rendah,1796
+Male,61,65,167,89,1,0,0,None,0,23.31,7,Sedikit Tinggi,1673
+Male,51,74,174,87,1,0,1,Sedang,0,24.44,5,Rendah,2445
+Female,28,73,163,82,0,0,1,Ringan,1,27.48,3,Rendah,1991
+Male,43,82,175,109,1,1,1,Sangat Berat,1,26.78,9,Sedikit Tinggi,3237
+Female,60,77,160,85,0,1,0,Sedang,1,30.08,8,Sedikit Tinggi,2029
+Female,69,77,164,81,0,0,0,Sangat Berat,0,28.63,5,Rendah,2449
+Male,53,72,171,89,1,0,0,Sangat Berat,1,24.62,5,Rendah,2905
+Male,63,66,164,81,0,0,1,None,0,24.54,7,Sedikit Tinggi,1650
+Male,61,83,162,86,1,1,1,Ringan,0,31.63,9,Sedikit Tinggi,2121
+Male,36,98,158,87,1,1,1,Ringan,0,39.26,7,Sedikit Tinggi,2465
+Female,54,70,174,90,0,1,1,Ringan,0,23.12,5,Rendah,1865
+Female,69,90,180,96,0,0,0,Sedang,1,27.78,7,Sedikit Tinggi,2354
+Female,47,54,166,78,0,1,1,Sangat Berat,0,19.60,5,Rendah,2245
+Male,27,97,179,96,0,0,1,Ringan,0,30.27,4,Rendah,2693
+Female,29,80,176,82,0,1,1,Sedang,1,25.83,4,Rendah,2471
+Female,65,86,175,104,1,0,0,Sangat Berat,1,28.08,9,Sedikit Tinggi,2789
+Female,58,71,178,83,0,0,0,Ringan,1,22.41,5,Rendah,1886
+Male,37,51,175,73,1,0,0,Berat,1,16.65,4,Rendah,2456
+Male,59,74,178,84,0,0,1,Sedang,0,23.36,5,Rendah,2422
+Male,25,92,175,101,0,1,0,Berat,1,30.04,5,Rendah,3267
+Female,70,99,177,99,0,0,1,Ringan,0,31.60,8,Sedikit Tinggi,2180
+Female,25,64,167,89,0,0,1,Sedang,1,22.95,2,Rendah,2167
+Male,61,77,178,84,0,0,0,Berat,1,24.30,5,Rendah,2730
+Female,39,60,178,71,1,0,0,None,0,18.94,5,Rendah,1628
+Male,58,90,165,92,1,0,1,Berat,0,33.06,8,Sedikit Tinggi,2840
+Female,68,64,172,82,0,1,1,Sedang,0,21.63,6,Rendah,1882
+Female,55,66,178,88,0,1,1,Ringan,0,20.83,6,Rendah,1838
+Female,30,73,176,89,0,1,1,Berat,0,23.57,2,Rendah,2620
+Female,49,59,169,76,0,0,1,Sedang,0,20.66,4,Rendah,1922
+Female,26,79,178,85,0,0,1,Ringan,0,24.93,1,Rendah,2216
+Male,28,74,164,78,1,1,1,None,1,27.51,7,Sedikit Tinggi,1956
+Male,26,57,169,74,0,1,1,Ringan,1,19.96,3,Rendah,2064
+Male,30,89,166,110,0,1,1,Berat,1,32.30,7,Sedikit Tinggi,3075
+Female,55,55,158,65,0,0,0,Sedang,0,22.03,4,Rendah,1707
+Female,59,66,171,81,0,1,1,Sedang,0,22.57,6,Rendah,1973
+Female,67,53,177,74,0,1,0,Sedang,1,16.92,6,Rendah,1767
+Male,32,72,156,77,0,1,0,Sangat Berat,0,29.59,2,Rendah,2926
+Male,28,54,156,74,1,0,1,None,0,22.19,4,Rendah,1656
+Male,65,89,157,93,0,1,0,Ringan,1,36.11,8,Sedikit Tinggi,2133
+Female,62,55,168,73,0,0,1,None,0,19.49,7,Sedikit Tinggi,1355
+Male,57,93,172,98,1,0,0,None,1,31.44,11,Sedikit Tinggi,2070
+Female,63,97,165,87,1,1,0,None,1,35.63,11,Sedikit Tinggi,1830
+Female,61,67,180,84,0,1,0,None,0,20.68,7,Sedikit Tinggi,1595
+Male,44,74,160,78,1,0,0,Berat,1,28.91,5,Rendah,2631
+Male,54,100,164,89,0,1,0,Sangat Berat,1,37.18,7,Sedikit Tinggi,3344
+Female,67,63,160,77,0,0,0,Sedang,1,24.61,5,Rendah,1758
+Female,54,92,158,86,0,0,0,None,1,36.85,8,Sedikit Tinggi,1772
+Male,78,98,150,106,1,1,1,None,1,43.56,14,Sedang,1839
+Male,67,91,176,110,1,1,0,Sedang,1,29.38,10,Sedikit Tinggi,2604
+Female,56,87,169,98,1,0,1,None,0,30.46,11,Sedikit Tinggi,1782
+Male,46,57,169,72,1,1,0,Sedang,1,19.96,6,Rendah,2172
+Male,70,92,177,106,1,1,1,Sangat Berat,0,29.37,10,Sedikit Tinggi,3194
+Female,56,65,158,84,1,0,0,Sangat Berat,0,26.04,6,Rendah,2273
+Male,58,90,170,99,1,1,0,Sedang,0,31.14,9,Sedikit Tinggi,2600
+Male,70,92,161,91,1,1,0,Ringan,1,35.49,9,Sedikit Tinggi,2174
+Female,26,67,173,87,0,1,1,Sangat Berat,0,22.39,2,Rendah,2774
+Female,52,60,155,70,1,0,1,Sedang,1,24.97,6,Rendah,1779
+Male,68,85,159,95,1,0,0,Sedang,1,33.62,9,Sedikit Tinggi,2339
+Male,52,58,179,80,0,1,1,Berat,1,18.10,6,Rendah,2490
+Female,61,53,158,71,0,0,0,Berat,1,21.23,5,Rendah,1814
+Male,60,71,174,81,1,1,1,Sangat Berat,1,23.45,8,Sedikit Tinggi,2855
+Female,66,87,165,89,0,0,1,Berat,0,31.96,7,Sedikit Tinggi,2433
+Male,78,98,155,105,1,1,1,None,1,40.79,14,Sedang,1877
+Male,65,65,155,78,1,0,1,None,0,27.06,9,Sedikit Tinggi,1559
+Female,43,71,165,85,1,0,1,Sedang,1,26.08,6,Rendah,2116
+Male,50,80,171,86,0,0,0,Sedang,0,27.36,4,Rendah,2517
+Male,62,56,172,78,0,0,0,Ringan,0,18.93,4,Rendah,1829
+Male,28,70,161,82,0,1,0,Berat,1,27.01,3,Rendah,2710
+Female,46,55,161,68,0,1,0,Sangat Berat,0,21.22,4,Rendah,2214
+Female,59,72,171,82,0,0,1,Berat,0,24.62,5,Rendah,2299
+Male,59,96,164,91,0,1,1,None,0,35.69,10,Sedikit Tinggi,2034
+Female,45,98,176,101,0,1,0,Ringan,0,31.64,7,Sedikit Tinggi,2329
+Female,57,95,175,103,1,1,1,Sedang,1,31.02,12,Sedang,2477
+Male,57,76,180,89,1,1,1,Sedang,1,23.46,8,Sedikit Tinggi,2488
+Male,55,58,178,78,1,1,1,Sangat Berat,0,18.31,7,Sedikit Tinggi,2703
+Female,37,66,158,78,1,0,1,Sedang,0,26.44,5,Rendah,2017
+Male,43,58,163,68,1,1,0,Ringan,1,21.83,5,Rendah,1910
+Male,70,94,159,92,0,1,1,None,1,37.18,11,Sedikit Tinggi,1907
+Female,28,66,168,84,0,1,0,Sedang,1,23.38,2,Rendah,2184
+Male,50,81,165,87,1,0,1,Sangat Berat,1,29.75,7,Sedikit Tinggi,3033
+Male,40,78,174,85,0,1,1,Sangat Berat,1,25.76,6,Rendah,3178
+Male,57,94,164,86,1,0,0,None,0,34.95,9,Sedikit Tinggi,2022
+Female,52,89,170,101,0,1,1,Sangat Berat,0,30.80,8,Sedikit Tinggi,2910
+Female,30,69,176,88,0,1,1,Sangat Berat,1,22.28,3,Rendah,2810
+Female,70,77,177,89,0,0,1,Sangat Berat,0,24.58,5,Rendah,2594
+Male,40,90,180,96,0,0,0,Berat,0,27.78,4,Rendah,3157
+Female,47,100,169,108,1,0,0,None,0,35.01,10,Sedikit Tinggi,1992
+Female,53,69,160,79,0,0,1,Berat,0,26.95,5,Rendah,2180
+Male,31,85,180,97,1,0,0,None,0,26.23,5,Rendah,2190
+Male,63,91,175,101,1,1,1,Ringan,1,29.71,10,Sedikit Tinggi,2329
+Male,67,79,180,87,0,1,0,Ringan,0,24.38,5,Rendah,2179
+Female,30,89,173,98,0,0,0,Ringan,0,29.74,2,Rendah,2283
+Male,58,56,168,74,0,1,1,Sangat Berat,0,19.84,6,Rendah,2518
+Male,55,67,179,84,0,1,1,Ringan,1,20.91,7,Sedikit Tinggi,2088
+Male,47,71,173,83,1,1,0,Sedang,1,23.72,6,Rendah,2420
+Male,44,62,156,82,0,1,1,Sedang,1,25.48,6,Rendah,2139
+Male,56,98,162,94,0,0,0,Sedang,0,37.34,7,Sedikit Tinggi,2662
+Female,62,73,174,85,0,1,0,None,0,24.11,7,Sedikit Tinggi,1616
+Male,27,95,161,90,0,0,1,None,0,36.65,5,Rendah,2192
+Female,33,68,166,83,0,1,1,Ringan,0,24.68,2,Rendah,1913
+Female,59,73,170,86,1,0,0,Berat,1,25.26,7,Sedikit Tinggi,2305
+Male,39,73,175,85,1,1,0,Sangat Berat,1,23.84,5,Rendah,3104
+Female,25,61,172,81,0,0,0,Ringan,0,20.62,0,Rendah,1924
+Female,67,75,157,82,1,0,1,None,0,30.43,10,Sedikit Tinggi,1482
+Female,54,87,171,100,0,0,1,Sedang,0,29.75,6,Rendah,2337
+Female,57,84,175,97,1,0,0,Sedang,1,27.43,8,Sedikit Tinggi,2306
+Male,41,76,167,86,1,0,0,None,1,27.25,7,Sedikit Tinggi,1925
+Male,29,79,157,81,1,0,0,Sangat Berat,1,32.05,4,Rendah,3099
+Male,52,72,158,76,0,1,1,Sedang,1,28.84,7,Sedikit Tinggi,2251
+Male,63,53,173,73,0,1,1,None,1,17.71,9,Sedikit Tinggi,1562
+Female,55,83,178,109,1,0,0,Berat,0,26.20,8,Sedikit Tinggi,2599
+Female,70,62,176,85,0,1,1,Berat,0,20.02,6,Rendah,2086
+Male,25,88,168,100,0,1,1,Sedang,0,31.18,5,Rendah,2806
+Male,44,57,161,71,0,1,1,Ringan,1,21.99,5,Rendah,1872
+Male,55,50,161,74,1,0,0,Ringan,0,19.29,5,Rendah,1700
+Female,36,83,174,100,1,1,1,Sedang,0,27.41,7,Sedikit Tinggi,2444
+Female,64,53,171,72,0,0,1,Berat,1,18.13,6,Rendah,1928
+Male,70,92,177,106,1,0,0,Sangat Berat,0,29.37,8,Sedikit Tinggi,3194
+Male,41,84,159,91,1,1,0,None,0,33.23,8,Sedikit Tinggi,1961
+Male,57,90,155,89,1,0,1,None,1,37.46,11,Sedikit Tinggi,1907
+Male,66,52,179,77,0,1,0,None,0,16.23,7,Sedikit Tinggi,1577
+Female,35,55,166,76,1,1,0,Sedang,1,19.96,5,Rendah,1940
+Female,33,88,177,103,0,0,0,Sangat Berat,1,28.09,4,Rendah,3154
+Male,60,93,165,87,0,0,0,Sedang,1,34.16,7,Sedikit Tinggi,2583
+Female,62,82,172,105,1,1,1,Sedang,0,27.72,10,Sedikit Tinggi,2207
+Female,65,51,156,72,0,0,0,None,0,20.96,6,Rendah,1199
+Female,27,87,180,110,0,0,1,Berat,0,26.85,4,Rendah,2931
+Male,32,88,172,107,0,0,0,Sedang,0,29.75,3,Rendah,2790
+Male,44,54,163,67,0,1,0,Sangat Berat,1,20.32,4,Rendah,2553
+Male,52,51,162,75,1,0,0,Sangat Berat,1,19.43,5,Rendah,2408
+Male,30,68,159,77,0,1,0,Ringan,1,26.90,3,Rendah,2102
+Male,26,78,175,87,1,1,1,Berat,1,25.47,5,Rendah,3017
+Female,35,55,161,75,0,1,0,Sangat Berat,0,21.22,3,Rendah,2318
+Male,47,86,180,107,0,0,1,Sedang,1,26.54,8,Sedikit Tinggi,2720
+Female,45,96,178,99,0,0,0,Sedang,0,30.30,6,Rendah,2614
+Male,30,54,156,67,1,1,0,Ringan,1,22.19,3,Rendah,1884
+Male,40,77,175,82,0,1,0,Ringan,0,25.14,4,Rendah,2295
+Male,47,94,160,89,1,0,0,Ringan,0,36.72,6,Rendah,2351
+Female,53,64,161,77,1,0,1,Berat,0,24.69,5,Rendah,2105
+Female,29,92,176,100,0,0,1,Berat,0,29.70,3,Rendah,2957
+Female,33,66,164,84,1,0,0,None,1,24.54,4,Rendah,1631
+Female,29,81,169,99,0,0,1,Sedang,1,28.36,4,Rendah,2418
+Male,63,83,163,87,1,1,1,Sangat Berat,0,31.24,9,Sedikit Tinggi,2924
+Female,35,52,162,66,0,0,1,Berat,1,19.81,4,Rendah,2064
+Male,44,86,173,102,0,1,0,Sedang,1,28.73,6,Rendah,2676
+Female,32,98,170,110,0,1,0,Sedang,0,33.91,5,Rendah,2668
+Male,54,72,172,82,0,1,1,Ringan,1,24.34,6,Rendah,2104
+Male,50,68,178,90,1,0,0,Ringan,1,21.46,5,Rendah,2128
+Male,49,63,156,77,0,0,0,Sedang,0,25.89,4,Rendah,2116
+Male,42,90,161,89,1,0,0,Sangat Berat,1,34.72,6,Rendah,3232
+Female,41,50,174,78,0,1,1,None,1,16.51,7,Sedikit Tinggi,1466
+Male,36,64,166,84,1,1,0,Ringan,0,23.23,4,Rendah,2066
+Female,70,56,176,72,1,1,0,Berat,1,18.08,7,Sedikit Tinggi,1982
+Female,58,72,156,79,1,1,0,None,1,29.59,10,Sedikit Tinggi,1493
+Female,68,82,173,101,1,0,0,Berat,1,27.40,8,Sedikit Tinggi,2415
+Male,69,53,160,72,1,0,0,Sangat Berat,0,20.70,5,Rendah,2261
+Male,66,51,174,78,0,1,1,Ringan,0,16.85,6,Rendah,1750
+Female,70,74,168,83,1,0,0,Sedang,1,26.22,7,Sedikit Tinggi,1982
+Female,40,88,176,104,0,1,1,Sedang,1,28.41,8,Sedikit Tinggi,2509
+Male,59,56,156,70,1,1,1,Ringan,0,23.01,7,Sedikit Tinggi,1712
+Male,33,76,170,84,0,0,0,Sedang,0,26.30,1,Rendah,2577
+Female,28,58,170,73,0,1,1,Sangat Berat,1,20.07,3,Rendah,2549
+Female,35,100,167,101,0,1,0,Sedang,1,35.86,7,Sedikit Tinggi,2647
+Female,57,96,163,87,0,0,0,Sangat Berat,0,36.13,6,Rendah,2912
+Female,27,79,168,81,0,1,1,Berat,1,27.99,4,Rendah,2663
+Female,65,84,169,106,0,1,0,Sedang,0,29.41,8,Sedikit Tinggi,2186
+Female,59,81,165,90,1,1,1,Ringan,1,29.75,9,Sedikit Tinggi,1905
+Female,69,95,156,87,1,1,0,Berat,1,39.04,9,Sedikit Tinggi,2448
+Male,36,55,160,67,1,0,1,Berat,1,21.48,5,Rendah,2372
+Male,28,88,165,86,0,0,1,Ringan,1,32.32,4,Rendah,2442
+Male,31,56,171,79,0,1,1,Sangat Berat,1,19.15,3,Rendah,2810
+Male,26,71,175,89,0,0,0,None,1,23.18,3,Rendah,2015
+Male,51,84,180,103,0,1,1,None,1,25.93,11,Sedikit Tinggi,2058
+Female,30,99,158,95,1,0,1,Sangat Berat,1,39.66,6,Rendah,3166
+Male,51,85,157,90,1,1,1,Ringan,1,34.48,9,Sedikit Tinggi,2174
+Female,28,53,180,77,1,1,1,Sangat Berat,1,16.36,4,Rendah,2573
+Male,53,52,161,73,0,0,1,None,0,20.06,6,Rendah,1520
+Male,34,53,168,78,0,0,1,Sangat Berat,1,18.78,2,Rendah,2689
+Male,53,82,165,89,1,0,0,Ringan,1,30.12,7,Sedikit Tinggi,2188
+Male,51,59,155,69,0,0,0,Sedang,0,24.56,3,Rendah,2029
+Male,36,95,176,110,1,1,0,Berat,0,30.67,8,Sedikit Tinggi,3234
+Male,45,52,160,69,1,0,0,Sedang,1,20.31,5,Rendah,2015
+Male,65,61,157,77,0,0,1,Sedang,1,24.75,6,Rendah,1970
+Female,28,63,161,82,1,1,0,Ringan,1,24.30,3,Rendah,1836
+Male,52,81,174,104,1,0,0,Berat,1,26.75,8,Sedikit Tinggi,2833
+Male,59,55,161,67,0,0,0,Sangat Berat,1,21.22,5,Rendah,2406
